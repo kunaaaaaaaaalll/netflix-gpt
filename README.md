@@ -12,6 +12,7 @@
 - Firebase setup
 - Deploying our app to prod
 - Create SignUp User Account
+- Redux Implementation while login successfully
 
 
 # Features
