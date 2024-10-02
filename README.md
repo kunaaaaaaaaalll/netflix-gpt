@@ -13,6 +13,7 @@
 - Deploying our app to prod
 - Create SignUp User Account
 - Redux Implementation while login successfully
+- fetch movies and documentaion from TMDB api's
 
 
 # Features
